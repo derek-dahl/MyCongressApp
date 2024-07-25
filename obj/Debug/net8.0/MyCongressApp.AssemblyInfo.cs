@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCongressApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c30597128a5103f31ecbc467033a3f6213fd567")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCongressApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCongressApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
