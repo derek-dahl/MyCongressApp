@@ -1,0 +1,38 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Rider IDE files
+.idea/
+.idea_modules/
+
+# User-specific files
+*.swp
+*~
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# macOS files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code files
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
